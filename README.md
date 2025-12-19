@@ -2,7 +2,7 @@
 Exfiltrate data with DNS queries in Base32. Based on Powershell and NSLookup.
 
 # How to Run
-Download, unpack, give necessary permissions, and run the latest interact.sh client.
+Download, unpack, give necessary permissions, and run the latest [interact.sh](https://github.com/projectdiscovery/interactsh/releases) client.
 
 ```
 chmod +x interactsh-client
